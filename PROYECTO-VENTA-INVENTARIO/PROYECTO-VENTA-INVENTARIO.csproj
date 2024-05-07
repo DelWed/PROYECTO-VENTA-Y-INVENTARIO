@@ -46,16 +46,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Frommodulos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Frommodulos.Designer.cs">
+      <DependentUpon>Frommodulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fromfondo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fromfondo.Designer.cs">
+      <DependentUpon>fromfondo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fromlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fromlogin.Designer.cs">
+      <DependentUpon>fromlogin.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Frommodulos.resx">
+      <DependentUpon>Frommodulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fromfondo.resx">
+      <DependentUpon>fromfondo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fromlogin.resx">
+      <DependentUpon>fromlogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +97,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario-de-perfil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon-icons.com_57997 %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486504352-checklist-clipboard-inventory-list-report-tasks-todo_81326.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Invoicing_icon-icons.com_54813.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario-de-perfil1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

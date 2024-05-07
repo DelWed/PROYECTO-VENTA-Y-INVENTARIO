@@ -117,20 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Invoicing_icon-icons.com_54813" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Invoicing_icon-icons.com_54813.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="user_icon-icons.com_57997 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\user_icon-icons.com_57997 (1).ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="usuario-de-perfil" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\usuario-de-perfil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1486504352-checklist-clipboard-inventory-list-report-tasks-todo_81326" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1486504352-checklist-clipboard-inventory-list-report-tasks-todo_81326.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="usuario-de-perfil1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\usuario-de-perfil1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

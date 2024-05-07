@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace PROYECTO_VENTA_INVENTARIO
 {
-    public partial class Form1 : Form
+    public partial class fromlogin : Form
     {
-        public Form1()
+        public fromlogin()
         {
             InitializeComponent();
+        }
+
+        private void fromlogin_Load(object sender, EventArgs e)
+        {
+            textBox1.Width = 300;
         }
     }
 }
